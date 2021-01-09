@@ -1,5 +1,7 @@
 this is file1
 
-hey how r u git
+hey how r u git .
 
 any randomization
+
+change to fix bug1..
