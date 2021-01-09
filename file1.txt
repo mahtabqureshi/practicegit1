@@ -4,11 +4,10 @@ hey how r u git .
 
 any randomization
 
-change to fix bug1..
+-change to fix bug1..
 
-<<<<<<< HEAD
 change by teammate on remote
-=======
+
 
 change to fix bug2..
->>>>>>> bug2
+
